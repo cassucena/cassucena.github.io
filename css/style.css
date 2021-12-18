@@ -67,3 +67,32 @@ i{
     width: 100%;
     height: auto;
 }
+
+@media (max-width: 576px){
+
+    .photo{
+        max-width: 100%;
+        height: auto;
+    }
+
+    .code{
+        width: 15%;
+        margin-left: 25%;
+        margin-top:-10px;
+    }
+
+    .btn-inicio{
+        margin-left: 70%;
+    }
+    
+    ul{
+        list-style: none;
+        margin-left: 17%;
+        margin-top: 5%;
+       
+    }
+
+    i{
+        font-size: 1.2rem;
+    }
+}
