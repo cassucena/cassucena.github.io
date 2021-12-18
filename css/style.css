@@ -68,11 +68,14 @@ i{
     height: auto;
 }
 
-@media (max-width: 576px){
+@media (max-width: 776px){
 
     .photo{
-        max-width: 100%;
-        height: auto;
+        max-width: 350px;
+        height: 250px;
+        margin-left: 15%;
+        
+     
     }
 
     .code{
@@ -95,4 +98,18 @@ i{
     i{
         font-size: 1.2rem;
     }
+
+    
+    .h2-texto{
+        margin: 0;
+        display:none;
+    }
+
+
+    .card-img-top{
+        height: 100px;
+    }
+
+
 }
+
