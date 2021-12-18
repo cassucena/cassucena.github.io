@@ -38,10 +38,32 @@ strong{
     margin-left: 27%;
 }
 
+ul{
+    list-style: none;
+    margin-left: 20%;
+    margin-top: 5%;
+   
+}
+
+li{
+    display: inline;
+    padding: 10px;
+    
+}
+
 h2{
     margin-top: 30%;
 }
 
 .card-img-top{
     height: 250px;
+}
+
+i{
+    font-size: 1.6rem;
+}
+
+.footer{
+    width: 100%;
+    height: auto;
 }
